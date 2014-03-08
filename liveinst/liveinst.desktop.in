@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=Install to Hard Drive
+_GenericName=Install
+_Comment=Install the live CD to your hard disk
+Categories=System;Utility;X-Red-Hat-Base;X-Fedora;GNOME;GTK;
+Exec=liveinst
+Terminal=false
+Type=Application
+Icon=media-optical
+Encoding=UTF-8
+StartupNotify=true
